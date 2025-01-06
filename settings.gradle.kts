@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "gitHub"
 include(":app")
+include(":model")
